@@ -1,0 +1,12 @@
+﻿#____________________footbridge_____________________#
+#______________________跨線橋_______________________#
+FBs_footbridge_way_bridge_stairs_C2_to_platform
+屋根なし跨線橋階段(両方向、中央)
+FBs_footbridge_way_bridge_stairs_C_to_platform
+屋根なし跨線橋階段(片方向、中央)
+#________________station_platform_center____________#
+#_____________地上階段(駅ホーム)_追加(階段中央)_____#
+FBs-wa-platform-f-footbridge-Front
+屋根なし跨線橋地上階段(駅属性、手前方向、中央),屋根なしホーム拡張
+FBs-wa-platform-f-footbridge-Back
+屋根なし跨線橋地上階段(駅属性、手前方向、中央),屋根なしホーム拡張
